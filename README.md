@@ -13,10 +13,16 @@ Hadoop-MapReduce基本原理及相关操作：https://my.oschina.net/u/3754001/b
 
 Hadoop-MapReduce的shuffle过程及其他：https://my.oschina.net/u/3754001/blog/1802979
 
-iOS外企：https://www.daijob.com/jobs/detail/602726
+Hadoop 2.6.5:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-2.6.5/hadoop-2.6.5.tar.gz
 
-外企：https://www.daijob.com/jobs/detail/602743
+Hadoop 2.7.7:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-2.7.7/hadoop-2.7.7.tar.gz
 
-https://www.daijob.com/jobs/detail/602727
+Hadoop 2.8.5:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-2.8.5/hadoop-2.8.5.tar.gz
 
-https://www.daijob.com
+Hadoop 2.9.2:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-2.9.2/hadoop-2.9.2.tar.gz
+
+Hadoop 3.0.3:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-3.0.3/hadoop-3.0.3.tar.gz
+
+Hadoop 3.1.2:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-3.1.2/hadoop-3.1.2.tar.gz
+
+
