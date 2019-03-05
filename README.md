@@ -1,4 +1,4 @@
-# hadoop-study
+# Hadoop-Study
 [![GitHub](https://img.shields.io/github/license/rayyq/hadoop-study.svg?color=important&label=License&style=popout)](https://github.com/rayyq/hadoop-study/blob/master/LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rayyq/hadoop-study)
 > Hadoop学习记录，搭建，配置 - HDFS，MapReduce - 分布式集群
