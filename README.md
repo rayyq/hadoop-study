@@ -1,4 +1,7 @@
 # hadoop-study
+[![GitHub](https://img.shields.io/github/license/rayyq/hadoop-study.svg?color=important&label=License&style=popout)](https://github.com/rayyq/hadoop-study/blob/master/LICENSE)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rayyq/hadoop-study)
+
 Read Hadoop The Definite Guide To Know About Hadoop Tech.
 
 Hadoop The Definite Guid Url: http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf
