@@ -17,4 +17,6 @@
 - Hadoop 3.0.3:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-3.0.3/hadoop-3.0.3.tar.gz
 - Hadoop 3.1.2:http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-3.1.2/hadoop-3.1.2.tar.gz
 
+Leetcode:https://blog.csdn.net/u012614906/column/info/12689
+
 
